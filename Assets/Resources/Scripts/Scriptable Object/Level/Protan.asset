@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63bbcdf74f6e3cb42aac3213512180d4, type: 3}
+  m_Name: Protan
+  m_EditorClassIdentifier: 
+  rgbList:
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  - {r: 0.8113208, g: 0, b: 0.0042478093, a: 1}
+  rgbSaturatedList:
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  - {r: 0.93207544, g: 0.19520827, b: 0.19906625, a: 1}
+  dotCount: 04000000040000000500000005000000060000000600000005000000050000000600000006000000
+  displaySprite:
+  - {fileID: 21300000, guid: c3f44276ad38a694fa113bc758a5c4fe, type: 3}
+  - {fileID: 21300000, guid: e4464c541f39f9745b541ff6a798507e, type: 3}
+  - {fileID: 21300000, guid: 6c8a85fb7fc9d75449a1850506698aad, type: 3}
+  - {fileID: 21300000, guid: ba4a9cdc6e2777c45b17820bd3b18667, type: 3}
+  - {fileID: 21300000, guid: c3f44276ad38a694fa113bc758a5c4fe, type: 3}
+  - {fileID: 21300000, guid: e4464c541f39f9745b541ff6a798507e, type: 3}
+  - {fileID: 21300000, guid: 6c8a85fb7fc9d75449a1850506698aad, type: 3}
+  - {fileID: 21300000, guid: b847208fce4f21b448ff26a643810308, type: 3}
+  - {fileID: 21300000, guid: c3f44276ad38a694fa113bc758a5c4fe, type: 3}
+  - {fileID: 21300000, guid: e4464c541f39f9745b541ff6a798507e, type: 3}
+  displayString:
+  - Buah apel berwarna merah
+  - Buah Strawberi berwarna merah
+  - Tomat berwarna merah
+  - Kacang berwarna Coklat
+  - Buah apel berwarna merah
+  - Buah Strawberi berwarna merah
+  - Tomat berwarna merah
+  - Cabai berwarna merah
+  - Buah apel berwarna merah
+  - Buah Strawberi berwarna merah

@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+Logs/
+UserSettings/
+Build Apk/
+.vscode/
+*.csproj
+*.sln
+*.apk
+*.unitypackage
